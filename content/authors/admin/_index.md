@@ -19,24 +19,24 @@ interests:
 - Artificial Intelligence
 - Computational Linguistics
 - Information Retrieval
-name: Nelson Bighetti
+name: AsiaMinor
 organizations:
 - name: Stanford University
   url: ""
 role: Professor of Artificial Intelligence
 social:
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/nelsonbighetti/
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/GeorgeCushen
+#- icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+#- icon: linkedin
+#  icon_pack: fab
+#  link: https://www.linkedin.com/in/nelsonbighetti/
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/gcushen
 superuser: true
 user_groups:
 - Researchers
